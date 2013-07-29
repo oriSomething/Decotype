@@ -1,4 +1,7 @@
-#DECOTYPE
+##DECOTYPE
+
+![decotype demo](http://blog.orisomething.com/wp-content/uploads/2013/06/decotype-example.gif)
+
 
 This is a script for Adobe Indesign. Its purpuse is allowing an easy way to create designed letters by using fonts that have multyply weights that suppose to be above each other.
 Right now it's limmited for a specific font (Mandatory by [fontef](http://www.fontef.com/)), but it can easly adapt to any font.
@@ -15,7 +18,7 @@ for more informatino:
 
 
 
-##TODO:
+###TODO:
 
 * support already kerned paragraphed
 * multiply fonts support
@@ -27,7 +30,12 @@ for more informatino:
 
 
 
-##BUGS:
+###BUGS:
 
 * RTL LTR not good in 100%
 * bug fix - check the new line in middle of doubled letter
+
+
+###LICENSE:
+
+Decotype is licensed under the MIT License, but if you're planning to use it, please attribute the author.
