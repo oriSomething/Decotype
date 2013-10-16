@@ -30,6 +30,13 @@ for more informatino:
 
 
 
+###EXTRA:
+
+I've Added a little helper for getting metrics out of fonts. It's a script to Glypths, and the result need a little tweek so it would be a valid JSON.
+Can't say if it works today. Glyphs changes once in awhile the macro engine
+
+
+
 ###BUGS:
 
 * RTL LTR not good in 100%
@@ -38,4 +45,4 @@ for more informatino:
 
 ###LICENSE:
 
-Decotype is licensed under the MIT License, but if you're planning to use it, please attribute the author.
+Decotype is licensed under the MIT License, but if you're planning to use the code, add an attribute to me: [Ori Livni](http://www.orisomething.com).
