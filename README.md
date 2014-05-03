@@ -1,6 +1,6 @@
 ##DECOTYPE
 
-![decotype demo](http://blog.orisomething.com/wp-content/uploads/2013/06/decotype-example.gif)
+![decotype demo](http://www.orilivni.com/wp-content/uploads/2013/12/decotype-example.gif)
 
 
 This is a script for Adobe Indesign. Its purpuse is allowing an easy way to create designed letters by using fonts that have multyply weights that suppose to be above each other.
